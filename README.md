@@ -1,4 +1,4 @@
-# Conservative_PINNs (PINNs on decomposed domains for conservation laws)
+# Conservative_PINNs (cPINNs on decomposed domains for conservation laws)
 
 We propose a conservative physics-informed neural network (cPINN) on discrete domains for nonlinear conservation laws. 
 Here, the term discrete domain represents the discrete sub-domains obtained after division of the computational domain, where PINN is
