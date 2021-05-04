@@ -27,4 +27,6 @@ A.D.Jagtap, G.E.Karniadakis, Extended Physics-Informed Neural Networks (XPINNs):
 A.D.Jagtap, E. Kharazmi, G.E.Karniadakis, Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems, Computer Methods in Applied Mechanics and Engineering, 365, 113028 (2020). (https://doi.org/10.1016/j.cma.2020.113028)
 
 
-Example details: Conservative PINN code with 4 subdomains for the one-dimensional Burgers equations .
+Example details: Conservative PINN code with 4 subdomains for the one-dimensional Burgers equations.
+
+For any queries regarding the XPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
