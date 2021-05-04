@@ -29,4 +29,4 @@ A.D.Jagtap, E. Kharazmi, G.E.Karniadakis, Conservative physics-informed neural n
 
 Example details: Conservative PINN code with 4 subdomains for the one-dimensional Burgers equations.
 
-For any queries regarding the XPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
+For any queries regarding the cPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
