@@ -384,7 +384,7 @@ if __name__ == "__main__":
     Max_iter = 15001  
    
 
-    data = scipy.io.loadmat('../DATA/burgers_shock.mat')
+    data = scipy.io.loadmat('/burgers_shock.mat')
     t = data['t'].flatten()[:,None]
     x = data['x'].flatten()[:,None]
     Exact = np.real(data['usol']).T    
