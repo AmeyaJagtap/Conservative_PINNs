@@ -29,7 +29,7 @@ A.D.Jagtap, E. Kharazmi, G.E.Karniadakis, Conservative physics-informed neural n
 
 
 
-
+Recommended software versions: TensorFlow 1.14, Python 3.6
 
 
 Example details: Conservative PINN code with 4 subdomains for the one-dimensional Burgers equations.
