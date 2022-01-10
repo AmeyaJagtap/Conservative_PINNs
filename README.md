@@ -102,8 +102,8 @@ References: For adaptive activation functions
        }
 
 
-Recommended software versions: TensorFlow 1.14, Python 3.6, Latex (for plotting figures)
+Recommended software versions:  TensorFlow 1.14, Python 3.6, Latex (for plotting figures)
 
-Example details: Conservative PINN code with 4 subdomains for the one-dimensional Burgers equations.
+Example details: Conservative PINN code with 4 spatial subdomains for the one-dimensional Burgers equations.
 
 For any queries regarding the cPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
